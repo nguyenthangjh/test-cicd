@@ -12,6 +12,3 @@ phases:
     commands:
       - echo Building...
       - npm run build
-artifacts:
-  files:
-    - dist/*
